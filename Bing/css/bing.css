@@ -1,0 +1,35 @@
+
+
+#test {
+    padding-left: 200px;
+    padding-top: 130px;
+}
+
+#BingTabPanel {
+    padding-left: 30px;',
+}
+
+#SearchIcon {
+    position: absolute;
+    top: 108px;
+    left: 710px;
+}
+
+#BingTabPanel ul {
+    background: transparent;
+    color: black;
+    border: none;
+}
+
+#BingTabPanel div {
+    background: transparent;
+    color: black;
+    border: none;
+}
+
+#BingTabPanel li {
+    background: white;
+    color: black;
+    border: none;
+}
+
